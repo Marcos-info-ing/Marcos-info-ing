@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Marcos Linares</h1>
 <img align="right" alt="GIF" height="160px"
      src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-Computer Engineering student based in Madrid, 📖 passionate about Data Science and Artificial Intelligence. 
+Computer Engineering student based in Madrid, passionate about Data Science and Artificial Intelligence. 
 
 I enjoy working across the entire data pipeline: from data collection, cleaning and exploratory analysis, to building predictive models, visualization dashboards, and deploying AI solutions.
 
-Always eager to learn and grow 👀
+Always eager to learn and grow
 I use GitHub to share projects that reflect my progress and commitment to becoming a well-rounded Data Scientist & AI Engineer.
 
 ## 🔹 Languages
